@@ -7,7 +7,7 @@
 - Clara Pinto Covane (claracovane1)
 - Dionisío João Rungo (dionisiorungo8-max)
 - Neusio da Telma Gove (neusiogovegovetelma88-gif)
-- Frédio Vasco Utui (COLOCA O USERNAME DELE AQUI)
+- Frédio Vasco Utui (frediovascoutui8-jpg)
 
 ## Funcionalidades
 
