@@ -11,12 +11,12 @@
 
 ## Funcionalidades
 
-- 4 temas com 20 perguntas: Cibersegurança básica, Vírus e fraudes, Wi-Fi e Protecção de contas
+- 4 temas com 60 perguntas: Cibersegurança básica, Vírus e fraudes, Wi-Fi e Protecção de contas
 - Perguntas e respostas baralhadas com `random`
 - Feedback imediato com explicação da resposta certa
 - Resultado em percentagem + recomendações personalizadas das perguntas erradas
 - Histórico persistente em JSON: melhor nota, tentativas e datas
-- Interface gráfica com Tkinter, botões coloridos e popups
+- Interface gráfica com Tkinter, fundo branco, botões coloridos e popups
 
 ## Stack Técnica
 
@@ -35,7 +35,6 @@
 
 ## Instalação e Execução
 
-Bash
 ```bash
 git clone https://github.com/neusiogovegovetelma88-gif/Projecto_Python_Unisave_2026.git
 cd Projecto_Python_Unisave_2026
